@@ -70,5 +70,5 @@ Done with this part as well? Awesome! 🙌 We might contact you sooner than you 
 
 ![randomuserapi-table](https://user-images.githubusercontent.com/65271698/157816814-8a54d48c-f9f1-4c96-b1d0-a2a0e38bde94.jpg)
 
-
+## All the Best and Happy Hacking 💪
 ### Note: The deadline for submissions is 13 March 2022 11:59 PM IST, post that the shared google form will stop accepting responses
