@@ -52,7 +52,7 @@ Done with this part as well? Awesome! 🙌 We might contact you sooner than you 
 5. You can use third-party node libraries **only** for **CSV export**
 6. For any queries, feel free to reach out on our [Telegram Group](https://t.me/+9GHRIsty3aE0M2U1) 
 7. We believe in cultivating a great community which respects privacy, try not to spam or share unwanted messages in the group or to anyone personally. Violating it, will get you disqualified.
-8. We will only make announcements in the shared Telegram group and nowhere else, we suggest you not to consider anyone who is contacting you personally regarding the outcome of this Hackathon or an offer from our side.
+8. We will only make announcements in the Telegram group that we have shared and nowhere else, we suggest you **not** to consider anyone who is contacting you personally regarding the outcome of this Hackathon or an offer from our side during the Hackathon.
 
 ## What you need to do
 
